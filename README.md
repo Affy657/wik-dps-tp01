@@ -4,11 +4,11 @@ Ce projet est une API Rust simple qui retourne les headers d'une requête HTTP G
 ## Installation et mise en place
 1. **Clonez le dépôt:**
 
-        git clone https://path-to-repository/WIK-DPS-TP01.git
+        git clone https://github.com/Affy657/wik-dps-tp01.git
 
 2. **Accédez au répertoire du projet:**
 
-        cd WIK-DPS-TP01
+        cd wik-dps-tp01
 
 3. **Compilez le projet:**
 
